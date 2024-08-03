@@ -54,7 +54,7 @@ current_filename = os.path.basename(__file__).split(".")[0]
 base_path = "https://csump.github.io/src/" + current_filename + "/"
 directory = "../src/" + current_filename + "/"
 files = list_files_in_directory(directory)
-files.remove("recipe_back.png")
+files = [file for file in files if not ("back" in file)]
 file_path =  "./" + current_filename + ".csv"
 
 generate_csv(file_path, files)

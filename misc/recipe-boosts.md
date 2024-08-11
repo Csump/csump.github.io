@@ -4,7 +4,7 @@
 
 Harsány betűleves – vegán leves, kollab
 
-* Te és egy általad választott játékos kaptok egy zöldséget.
+* Te és minden turista játékos kaptok egy-egy zöldséget.
 
 Húsleves – falusi leves, boost
 
@@ -132,7 +132,7 @@ Szilvás gombócz – falusi desszert, boost
 
 Kiadós kalács – falusi desszert, kollab
 
-* Te és egy általad választott játékos kaptok két tallért.
+* Te és minden őslakos játékos kaptok egy-egy pékárut.
 
 Kompót – falusi desszert, szívatás
 

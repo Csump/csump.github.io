@@ -1,6 +1,5 @@
 # Receptképességek
 
-- eldobott receptekből süthetsz egyet
 - cserélj meg két receptet a sorban
 - told a receptsort eggyel tova
 
@@ -104,7 +103,7 @@ Hot dog – bó'ti főétel, boost
 
 Badacsony szelet – bó'ti desszert, boost
 
-* Betolakodhatsz egy teli standhoz.
+* Az eldobott receptkártyák közül megsüthetsz egyet (ha rendelkezel a hozzávalóival).
 
 Nassmandula – bó'ti desszert, kollab
 

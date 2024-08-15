@@ -1,6 +1,6 @@
 # Receptképességek
 
-- cserélj meg két receptet a sorban
+- Te és egy általad választott játékos kaptok egy húst.
 - told a receptsort eggyel tova
 
 ## Egyéb tudúúú
@@ -127,7 +127,7 @@ Pogácsa – falusi desszert, kollab
 
 Csábos linzer – vegán desszert, kollab
 
-* Te és egy általad választott játékos kaptok egy húst.
+* Cserélj meg két receptet a sorban.
 
 Barackizé – gourmet desszert, szívatás
 

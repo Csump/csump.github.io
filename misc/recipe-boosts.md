@@ -1,5 +1,13 @@
 # Receptképességek
 
+- eldobott receptekből süthetsz egyet
+- cserélj meg két receptet a sorban
+- told a receptsort eggyel tova
+
+## Egyéb tudúúú
+
+- pont helyett más mértékegység: pld. kő
+
 ## Levesek
 
 Harsány betűleves – vegán leves, kollab
@@ -32,7 +40,7 @@ Levesporos leves – bó'ti leves, boost
 
 Energiaital (Sátán) – bó'ti leves, szívatás
 
-* Válassz két játékost és cseréld meg a készleplapjukat.
+* Válassz két játékost és cseréld meg a készletlapjukat.
 
 ## Főételek
 

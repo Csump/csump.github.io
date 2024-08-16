@@ -1,13 +1,38 @@
 # Receptképességek
 
-- Te és egy általad választott játékos kaptok egy húst.
-- told a receptsort eggyel tova
-
 ## Egyéb tudúúú
 
 - pont helyett más mértékegység: pld. kő
 
 ## Levesek
+
+Halászlé – falusi leves, kollab
+
+* Te és egy általad választott játékos kaptok egy húst.
+
+Hagymakrémleves – gourmet leves, szívatás
+
+* Válassz ki egy játékost, lopj el tőle 2 tallért, és röhögd ki a hagymás leheleteddel.
+
+Gulyásleves – falusi leves, kollab
+
+* Mindenki kap egy számára tetszőleges terméket.
+
+Rámenős ramen – gourmet leves, szívatás
+
+* Told eggyel tovább a receptsort.
+
+Bableves – vegán leves, kollab
+
+* Mindenki kap egy-egy terméket. Te döntöd el, hogy ki mit szerezhet.
+
+Borscht – gourmet leves, boost
+
+* Betolakodhatsz egy teli standhoz.
+
+Napindító leves (tejbe cuccok) – bó'ti leves, boost
+
+* A következő kört te kezded. Nyúld le a kezdőjátékosi tokent.
 
 Harsány betűleves – vegán leves, kollab
 

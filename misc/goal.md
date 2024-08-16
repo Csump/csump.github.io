@@ -1,3 +1,5 @@
+# Célkártyák
+
 Édesszájú
 
 * 2-4 desszert: 3 pont
@@ -57,4 +59,39 @@ Takarékos
 
 Gourmet
 
-* Készíts legalább annyi gourmet receptet, ahány vegán recepttel rendelkezel. (7 pont)
+* 2-4 gourmet: 3 pont
+* 5-7 gourmet: 7 pont
+* 8+ gourmet: 12 pont
+
+Állatbarát
+
+* 2-4 vegán: 3 pont
+* 5-7 vegán: 7 pont
+* 8+ vegán: 12 pont
+
+Jófej
+
+* 1-3 kijátszott kollabkártya: 3 pont
+* 4-6 kijátszott kollabkártya: 7 pont
+* 7+ kijátszott kollabkártya: 12 pont
+
+Bunkó
+
+* A játék során játszd ki te a legtöbb szívatást. (10 pont)
+
+Bűvész
+
+* Használd el az összes recepted képességét. (7 pont)
+
+Káli kövek királya
+
+* 1 köves recept: 5 pont
+* 2 köves recept: 7 pont
+* 3+ köves recept: 9 pont
+
+Pincemester
+
+* Legyen minél több bor a készletedben (felhasznált vagy felhasználatlan):
+* 1-2: 5 pont
+* 3-4: 7 pont
+* 5+: 12 pont

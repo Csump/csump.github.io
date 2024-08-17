@@ -1,5 +1,8 @@
 # Közös célkártyák
 
+// cSpell:disable
+
+* Ha beadsz egy receptet, kapsz érte tallértot. (+5 tallér)
 * Célkártyán színkódolt kártyaslot, oda kell gyűjteni a valamilyen kártyát. (Mehet felhasznált, meg fel nem használt kártya is.)
 * Készletkártyán ikon (közös célos hozzájárulás) -> dicsőségpont (egy sornyi)
 * Egy slotra bármennyi recept kerülhet.

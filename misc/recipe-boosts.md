@@ -130,7 +130,7 @@ Hot dog – bó'ti főétel, boost
 
 Badacsony szelet – bó'ti desszert, boost
 
-* Az eldobott receptkártyák közül megsüthetsz egyet (ha rendelkezel a hozzávalóival).
+* A jelenlegi kínálatból kikerült receptkártyák közül megsüthetsz egyet (ha rendelkezel a hozzávalóival).
 
 Nassmandula – bó'ti desszert, kollab
 

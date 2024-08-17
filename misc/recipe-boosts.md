@@ -138,15 +138,15 @@ Nassmandula – bó'ti desszert, kollab
 
 Zizegő Káli kavics – bó'ti desszert, kollab
 
-* Sikeres játékosközi cserét illetően mindkét fél kap egy-egy tetszőleges alap terméket.
+* Sikeres játékosközi cserét illetően mindkét fél kap egy-egy számára tetszőleges alap terméket.
 
 Almás pitemény – vegán desszert, boost
 
-* Minden vegán étked után kapsz egy tallért (ezt is beleértve).
+* Minden nálad lévő vegán étked után kapsz egy tallért (ezt is beleértve).
 
 Mézes zserbó – gourmet desszert, boost
 
-* Egyik hozzávalódat átváltoztathatod bármi mássá.
+* Egyik készleteden lévő hozzávalódat átváltoztathatod bármi mássá.
 
 Pogácsa – falusi desszert, kollab
 

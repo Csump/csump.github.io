@@ -1,5 +1,7 @@
 # Receptképességek
 
+// cSpell:disable
+
 ## Egyéb tudúúú
 
 - pont helyett más mértékegység: pld. kő
@@ -90,7 +92,7 @@ Kó'bász – falusi főétel, kollab
 
 Batár lángos – falusi főétel, szívatás
 
-* Keverjétek meg, és véletlenszerűen osszátok újra a készletkártyáitokat.
+* Kör elején játszható ki. A soron lévő játékos a körében legfejlebb 2 akciót hajthat csak végre.
 
 Kaviár – gourmet főétel, szívatás
 
@@ -122,7 +124,7 @@ Sült krumpli – bó'ti főétel, boost
 
 Hot dog – bó'ti főétel, boost
 
-* Egy alkalommal használhatod a tőled balra ülő játékos karakterképességét.
+* Alkudozásnál garantáltan 5-öst dobsz.
 
 ## Desszertek
 
@@ -172,7 +174,7 @@ Kompót – falusi desszert, szívatás
 
 Csurranós méz – bó'ti desszert, boost
 
-* Egy alkalommal használhatod a tőled jobbra ülő játékos karakterképességét.
+* Alkudozáskor garantáltan 5-öst dobsz.
 
 Kakaós csillámcsiga – bó'ti desszert, boost
 

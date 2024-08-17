@@ -1,5 +1,7 @@
 # Célkártyák
 
+// cSpell:disable
+
 Édesszájú
 
 * 2-4 desszert: 3 pont

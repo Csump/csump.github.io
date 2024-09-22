@@ -191,7 +191,7 @@ for (var i = 0; i < records.length; i++) {
     var rec_name = rec.name;           // Kaja neve
     var rec_power = rec.power;         // Kaja képessége
     var rec_category = rec.category;   // Leves, Főétel, Desszert
-    var rec_bonus_type = rec.bonus;    // Semmi, Szívatós, Kollab, Boost
+    var rec_bonus_type = rec.bonus;    // Semmi, Szívatás, Kollab, Boost
     var rec_type = rec.type;           // Vegán, Gourmet, Falusi, Bó'ti
     var rec_points = rec.points;       // Kaja pontértéke
     
@@ -283,6 +283,13 @@ for (var i = 0; i < records.length; i++) {
             handleIngredients(ingredientsGroup, rec, ingredients);
         }
 
+        // Power Types
+        var powerTypeGroup = findObject(newGroup, "Power Type");
+        
+        if (powerTypeGroup) {
+            pickPowerType(powerTypeGroup, rec_bonus_type);
+        }
+
         // Images
         var rec_name_formatted = formatImageFileName(rec_name);
         var imagePath = 'C:/Users/POR7BP/Documents/_PERSONAL/_MOME/_KALI/Cards v3/Links/Recipes/' + rec_name_formatted;
@@ -347,6 +354,36 @@ function handleIngredients(ingredientsGroup, record, ingredients) {
             ingredientsOdd.hidden = false;
             var oddItems = ingredientsOdd.pageItems;
             handleIngredientSet(oddItems, ingredientList);
+        }
+    }
+}
+
+// Function to show the current card's power type icon
+function pickPowerType(powerTypeGroup, bonusType)
+{
+    var sabotage = findObject(powerTypeGroup, "Sabotage");
+    var boost = findObject(powerTypeGroup, "Boost");
+    var collab = findObject(powerTypeGroup, "Collab");
+
+    if (sabotage && boost && collab) {
+        sabotage.hidden = true;
+        boost.hidden = true;
+        collab.hidden = true;
+
+        var firstTwoChars = bonusType.substring(0, 2).toLowerCase();
+
+        switch (firstTwoChars) {
+            case "sz":  // Szívatás
+                sabotage.hidden = false;
+                break;
+            case "bo":  // Boost
+                boost.hidden = false;
+                break;
+            case "ko":  // Kollab
+                collab.hidden = false;
+                break;
+            default:
+                break;
         }
     }
 }

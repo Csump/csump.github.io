@@ -1,7 +1,7 @@
 [
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Almás pitemény",
         "power": "Az összes nálad lévő vegán étek után kapsz egy tallért (ezt is beleértve).",
         "category": "Desszert",
@@ -37,9 +37,9 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Badacsony szelet",
-        "power": "A kínálatból kikerült receptkártyák közül magadhoz vehetsz egyet (ha rendelkezel a hozzávalóival).",
+        "power": "Végy magadhoz egy készletből kikerült receptkártyát, ha rendelkezel a hozzávalóival.",
         "category": "Desszert",
         "bonus": "Boost",
         "type": "Bó'ti",
@@ -55,7 +55,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Barackizé",
         "power": "Az épp vásárló játékost azonnal elzavarják a pulttól.",
         "category": "Desszert",
@@ -73,7 +73,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Batár lángos",
         "power": "Kör elején játszható ki: a sorra kerülő játékos e körben legfeljebb 2 akciót hajthat végre.",
         "category": "Főétel",
@@ -109,7 +109,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Borsos borsóleves",
         "power": "Ellophatsz egy alaphozzávalót az egyik kedves szomszédodtól.",
         "category": "Leves",
@@ -145,7 +145,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Csábos linzer",
         "power": "Cserélj meg két kártyát a felfedett receptek sorában.",
         "category": "Desszert",
@@ -163,7 +163,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Csupor méz",
         "power": "Alkudozáskor bármi történjék, garantáltan 5-öst dobsz.",
         "category": "Desszert",
@@ -178,24 +178,6 @@
         "stone": "",
         "wine": "",
         "coin": "3"
-    },
-    {
-        "﻿": "•",
-        "Státusz": "Új",
-        "name": "Energiaital (Sátán)",
-        "power": "Válassz két játékost, és cseréld meg a készletlapjukat. Höhö.",
-        "category": "Leves",
-        "bonus": "Szívatás",
-        "type": "Bó'ti",
-        "points": "12",
-        "meat": "",
-        "fruit": "",
-        "vegetable": "",
-        "milk": "",
-        "bread": "",
-        "stone": "",
-        "wine": "3",
-        "coin": ""
     },
     {
         "﻿": "•",
@@ -325,7 +307,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Harsány betűleves",
         "power": "Te és minden turista játékos kaptok egy-egy zöldséget.",
         "category": "Leves",
@@ -349,19 +331,19 @@
         "category": "Főétel",
         "bonus": "Boost",
         "type": "Bó'ti",
-        "points": "4",
-        "meat": "1",
+        "points": "3",
+        "meat": "",
         "fruit": "",
         "vegetable": "",
         "milk": "",
-        "bread": "1",
+        "bread": "",
         "stone": "",
         "wine": "",
-        "coin": ""
+        "coin": "2"
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Húsleves",
         "power": "Betolakodhatsz egy teli standhoz.",
         "category": "Leves",
@@ -397,7 +379,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kacsasoufflé",
         "power": "",
         "category": "Főétel",
@@ -421,19 +403,19 @@
         "category": "Desszert",
         "bonus": "Boost",
         "type": "Bó'ti",
-        "points": "8",
+        "points": "5",
         "meat": "",
-        "fruit": "1",
+        "fruit": "",
         "vegetable": "",
-        "milk": "1",
-        "bread": "2",
+        "milk": "",
+        "bread": "",
         "stone": "",
         "wine": "",
-        "coin": ""
+        "coin": "3"
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kaviár",
         "power": "Amikor valaki kijátszik egy receptképességet, semmissé teheted a hatását.",
         "category": "Főétel",
@@ -451,7 +433,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kiadós kalács",
         "power": "Te és minden őslakos játékos kaptok egy-egy pékárut.",
         "category": "Desszert",
@@ -469,7 +451,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kó'bász",
         "power": "Sikeres játékosközi cserét illetően mindkét fél kap plusz egy-egy tallért.",
         "category": "Főétel",
@@ -487,7 +469,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kompót",
         "power": "Ellophatsz egy alaphozzávalót az egyik kedves szomszédodtól.",
         "category": "Desszert",
@@ -505,7 +487,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kő' fagyi?",
         "power": "",
         "category": "Desszert",
@@ -523,7 +505,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kőleves",
         "power": "",
         "category": "Leves",
@@ -541,7 +523,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Kürtkős",
         "power": "",
         "category": "Desszert",
@@ -577,7 +559,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Levesincs leves",
         "power": "Húzz véletlenszerűen egy még fel nem használt receptet az egyik játékos kezéből.",
         "category": "Leves",
@@ -613,7 +595,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Mézes zserbó",
         "power": "Egy készleteden lévő cuccodat átváltoztathatod bármi mássá. (A mennyiség nem változhat!)",
         "category": "Desszert",
@@ -631,25 +613,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Új",
-        "name": "Tejbe bogyóka",
-        "power": "A következő kört te kezded. Nyúld le a kezdőjátékosi jelzőt. Ha nem adják, csapj a kezükre.",
-        "category": "Leves",
-        "bonus": "Boost",
-        "type": "Bó'ti",
-        "points": "3",
-        "meat": "",
-        "fruit": "",
-        "vegetable": "",
-        "milk": "",
-        "bread": "",
-        "stone": "",
-        "wine": "",
-        "coin": "2"
-    },
-    {
-        "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Nassmandula",
         "power": "Te és egy általad választott játékos kaptok egy tejet.",
         "category": "Desszert",
@@ -667,7 +631,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Pogácsa",
         "power": "Húzz fel 2 receptet a pakliból. Egyet tarts meg, a másikat add oda valamelyik játékosnak.",
         "category": "Desszert",
@@ -685,7 +649,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Pörkölt",
         "power": "",
         "category": "Főétel",
@@ -721,7 +685,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Rettegett kőtorta",
         "power": "",
         "category": "Desszert",
@@ -739,7 +703,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Romantikus meggyleves",
         "power": "Te és minden bebíró játékos kaptok egy-egy gyümölcsöt.",
         "category": "Leves",
@@ -757,7 +721,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Saláta",
         "power": "Az éppen alkudozó játékos mindenképpen drágábbra alkuszik.",
         "category": "Főétel",
@@ -775,7 +739,25 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Új",
+        "name": "Sátáni energiaital",
+        "power": "Válassz két játékost, és cseréld meg a készletlapjukat. Höhö.",
+        "category": "Leves",
+        "bonus": "Szívatás",
+        "type": "Bó'ti",
+        "points": "12",
+        "meat": "",
+        "fruit": "",
+        "vegetable": "",
+        "milk": "",
+        "bread": "",
+        "stone": "",
+        "wine": "3",
+        "coin": ""
+    },
+    {
+        "﻿": "•",
+        "Státusz": "Kész",
         "name": "Selyemlazac",
         "power": "",
         "category": "Főétel",
@@ -793,7 +775,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Spagetti reszelt kővel",
         "power": "",
         "category": "Főétel",
@@ -817,19 +799,19 @@
         "category": "Főétel",
         "bonus": "Boost",
         "type": "Bó'ti",
-        "points": "4",
+        "points": "3",
         "meat": "",
         "fruit": "",
-        "vegetable": "2",
+        "vegetable": "",
         "milk": "",
         "bread": "",
         "stone": "",
         "wine": "",
-        "coin": ""
+        "coin": "2"
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Szalámis szendvics",
         "power": "Húzhatsz egy célkártyát.",
         "category": "Főétel",
@@ -847,7 +829,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Szilvás gombócz",
         "power": "Minden falusi étked után kapsz egy tallért (ezt is beleértve).",
         "category": "Desszert",
@@ -865,7 +847,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Tarhonyás csirke",
         "power": "Az épp soron lévő játékos köre azonnal véget ér.",
         "category": "Főétel",
@@ -880,6 +862,24 @@
         "stone": "",
         "wine": "",
         "coin": ""
+    },
+    {
+        "﻿": "•",
+        "Státusz": "Új",
+        "name": "Tejbe bogyóka",
+        "power": "A következő kört te kezded. Nyúld le a kezdőjátékosi jelzőt. Ha nem adják, csapj a kezükre.",
+        "category": "Leves",
+        "bonus": "Boost",
+        "type": "Bó'ti",
+        "points": "3",
+        "meat": "",
+        "fruit": "",
+        "vegetable": "",
+        "milk": "",
+        "bread": "",
+        "stone": "",
+        "wine": "",
+        "coin": "2"
     },
     {
         "﻿": "•",
@@ -901,7 +901,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Tojásos nokedli",
         "power": "Újradobhatsz a kockával.",
         "category": "Főétel",
@@ -955,9 +955,9 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Zizegő Káli kavics",
-        "power": "Sikeres játékosközi cserét illetően mindkét fél kap egy-egy számára tetszőleges alap terméket.",
+        "power": "Sikeres játékosközi csere esetén mindkét fél kap egy tetszőleges alap terméket.",
         "category": "Desszert",
         "bonus": "Kollab",
         "type": "Bó'ti",
@@ -973,7 +973,7 @@
     },
     {
         "﻿": "•",
-        "Státusz": "Frissítendő",
+        "Státusz": "Kész",
         "name": "Zsenge falat",
         "power": "Minden gourmet étked után kapsz egy tallért (ezt is beleértve).",
         "category": "Főétel",

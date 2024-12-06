@@ -11,11 +11,6 @@
 
 Őslakos falusi izé: Falunapi falatozás (nappal)
 
-* *Falusi főétel*
-* *Falusi leves*
-* *Falusi desszert*
-* *Köves recept*
-
 * Falusi recept
 * Leves
 * Almás recept
@@ -23,22 +18,12 @@
 
 Bebírós gourmetzabálda: Bebírók borestje (naplemente)
 
-* *Gourmet főétel*
-* *Gourmet leves*
-* *Gourmet desszert*
-* *Boros recept*
-
 * Gourmet recept
 * Főétel
 * 5+ pontos recept (63%)
 * Boost recept
 
 Turista vegánbigyó: Piknik a Kőtengeren (esti)
-
-* *Vegán főétel*
-* *Vegán leves*
-* *Vegán desszert*
-* *Bó'ti recept*
 
 * Vegán recept
 * Desszert

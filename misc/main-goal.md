@@ -30,7 +30,7 @@ Bebírós gourmetzabálda: Bebírók borestje (naplemente)
 
 * Gourmet recept
 * Főétel
-* 5+ pontos recept
+* 5+ pontos recept (63%)
 * Boost recept
 
 Turista vegánbigyó: Piknik a Kőtengeren (esti)
